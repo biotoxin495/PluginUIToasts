@@ -1,12 +1,12 @@
 [package]
-name = "biotoxin495/loadingspinner"
-description = "A small, dependency-free Roblox utility for displaying animated loading spinners over UI elements."
-version = "1.0.4"
+name = "biotoxin495/pluginuitoasts"
+description = "a small, self-contained toast notification utility built specifically for Roblox Studio plugins."
+version = "1.0.0"
 license = "MIT"
 authors = ["biotoxin495"]
 realm = "shared"
 registry = "https://github.com/UpliftGames/wally-index"
-repository = "https://github.com/biotoxin495/LoadingSpinner"
+repository = "https://github.com/biotoxin495/PluginUIToasts"
 
 exclude = [
 	"examples",
