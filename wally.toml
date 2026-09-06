@@ -1,0 +1,17 @@
+[package]
+name = "biotoxin495/loadingspinner"
+description = "A small, dependency-free Roblox utility for displaying animated loading spinners over UI elements."
+version = "1.0.4"
+license = "MIT"
+authors = ["biotoxin495"]
+realm = "shared"
+registry = "https://github.com/UpliftGames/wally-index"
+repository = "https://github.com/biotoxin495/LoadingSpinner"
+
+exclude = [
+	"examples",
+	"docs",
+	".github",
+	"*.rbxl",
+	"*.rbxlx",
+]
