@@ -257,9 +257,5 @@ local PluginUIToasts = require(script.Parent.Modules.PluginUIToasts)
 
 The module does not require any other packages or modules.
 
-## License
-
-Add the license used by your project before publishing the module.
-
 
 made with ❤️ by biotoxin495
